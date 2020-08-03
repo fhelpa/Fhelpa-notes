@@ -6,4 +6,5 @@ Marvelous
 Octane
 Redshift
 Houdini
+VisualStudioCode
 
