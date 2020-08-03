@@ -8,3 +8,5 @@ Redshift
 Houdini
 VisualStudioCode
 
+3Dsmax
+
